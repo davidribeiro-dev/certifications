@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 ![Last Commit](https://img.shields.io/github/last-commit/davidribeiro-dev/Certifications)
 
-Verifiable IT and cybersecurity credentials I've earned, organized by domain. Every entry links to the original issuer's verification page (Credly) and a downloadable PDF copy.
+Verifiable IT and cybersecurity credentials I've earned, organized by domain. Every entry links to the original issuer's verification page (Credly) and a downloadable PDF copy of the certificate.
 
 A consolidated view of all earned badges is also available on my [Credly profile](https://www.credly.com/users/david-ribeiro1).
 
@@ -20,17 +20,23 @@ A consolidated view of all earned badges is also available on my [Credly profile
 
 | Certification | Issuer | Year | Verify | Certificate |
 | ------------- | ------ | ---- | ------ | ----------- |
+| CompTIA Security+ | CompTIA | 2025 | [Credly](https://www.credly.com/users/david-ribeiro1) | [PDF](cybersecurity/security%2B.pdf) |
 | Google Cybersecurity Certificate | Google | 2025 | [Credly](https://www.credly.com/users/david-ribeiro1) | [PDF](cybersecurity/google-cybersecurity.pdf) |
+| ITS Cybersecurity | Certiport | 2025 | [Credly](https://www.credly.com/users/david-ribeiro1) | [PDF](cybersecurity/its-cybersecurity.pdf) |
 
 ## Networking
 
 | Certification | Issuer | Year | Verify | Certificate |
 | ------------- | ------ | ---- | ------ | ----------- |
 | Cisco CCNA: Introduction to Networks | Cisco | 2025 | [Credly](https://www.credly.com/users/david-ribeiro1) | [PDF](networking/cisco-ccna-itn.pdf) |
+| ITS Networking | Certiport | 2025 | [Credly](https://www.credly.com/users/david-ribeiro1) | [PDF](networking/its-networking.pdf) |
 
 ## IT Fundamentals
 
-*Coming soon — additional certificates will be added to this repository as PDFs are collected.*
+| Certification | Issuer | Year | Verify | Certificate |
+| ------------- | ------ | ---- | ------ | ----------- |
+| CompTIA IT Fundamentals (ITF+) | CompTIA | 2025 | [Credly](https://www.credly.com/users/david-ribeiro1) | [PDF](it-fundamentals/itf%2B.pdf) |
+| ITS Device Configuration & Management | Certiport | 2025 | [Credly](https://www.credly.com/users/david-ribeiro1) | [PDF](it-fundamentals/its-device-configuration-and-management.pdf) |
 
 ## In Progress
 
@@ -45,6 +51,9 @@ All certifications listed above can be independently verified through one of the
 
 If a Credly link in the table above fails, please refer to the consolidated profile link in step 1.
 
+## License
+
+The PDF certificates and badge artifacts in this repository are © their respective issuing organizations. The repository structure, README content, and metadata are © 2025–2026 David Ribeiro. All rights reserved.
 ## License
 
 The PDF certificates and badge artifacts in this repository are © their respective issuing organizations. The repository structure, README content, and metadata are © 2025–2026 David Ribeiro. All rights reserved.
