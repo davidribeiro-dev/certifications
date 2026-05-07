@@ -1,4 +1,4 @@
-# Certifications
+# certifications
 
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 ![Last Commit](https://img.shields.io/github/last-commit/davidribeiro-dev/Certifications)
