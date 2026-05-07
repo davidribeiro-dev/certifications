@@ -54,6 +54,3 @@ If a Credly link in the table above fails, please refer to the consolidated prof
 ## License
 
 The PDF certificates and badge artifacts in this repository are © their respective issuing organizations. The repository structure, README content, and metadata are © 2025–2026 David Ribeiro. All rights reserved.
-## License
-
-The PDF certificates and badge artifacts in this repository are © their respective issuing organizations. The repository structure, README content, and metadata are © 2025–2026 David Ribeiro. All rights reserved.
